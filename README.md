@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waleedbinaamer22
 - 👀 I’m interested in Web & Game Technologies
-- 💻 Currently Working in Telecommunication Industry & Providing Solution for Ericsson Order Care & Ericsson Catalog Manager
+- 💻 Currently Working in Telecommunication Industry & Providing Solutions for Ericsson Order Care / Ericsson Catalog Manager
 - 🌱 I’m currently learning NEXT.js & Python
 - 💞️ I’m looking to collaborate on Web based Technologies
 - 📫 How to reach me waleedbinaamer22@gmail.com
